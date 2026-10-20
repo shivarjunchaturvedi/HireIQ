@@ -2,6 +2,13 @@
 
 A modern web application for interview preparation with AI-powered mock interviews and resume analysis.
 
+## Project Overview
+
+- **Project Type:** Team Project
+- **Purpose:** Help candidates prepare for interviews through AI-powered mock interviews and resume feedback.
+- **Collaboration:** Built as a collaborative software project, bringing together frontend development, backend APIs, authentication, and database integration.
+- **Key Learning Areas:** Full-stack development, API design, Firebase integration, and AI-assisted interview workflows.
+
 ## Features
 
 - 🔐 **Firebase Authentication** - Secure user authentication with email/password
