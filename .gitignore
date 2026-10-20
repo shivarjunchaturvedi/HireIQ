@@ -1,0 +1,33 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+build/
+**/build/
+
+# Python generated files and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Firebase admin credentials / private exports
+*serviceAccount*.json
+*service-account*.json
+firebase-adminsdk-*.json
+full_database_export.json
+downloaded_data.json
+
+# Local logs and OS files
+*.log
+.DS_Store
+Thumbs.db
