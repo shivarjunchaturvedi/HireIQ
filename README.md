@@ -19,21 +19,6 @@ A modern web application for interview preparation with AI-powered mock intervie
 - 🎨 **Modern UI** - Built with React, TypeScript, and Tailwind CSS
 
 
-## Screenshots
-
-### Homepage
-![HireIQ Homepage](docs/screenshots/hireiq-homepage.png)
-
-### Services and Features
-![HireIQ Services](docs/screenshots/hireiq-services.png)
-
-### Platform Preview
-![HireIQ Platform Preview](docs/screenshots/hireiq-feature-3.png)
-
-### Additional UI Preview
-![HireIQ Additional UI](docs/screenshots/hireiq-feature-4.png)
-
-
 ## Setup Instructions
 
 ### Prerequisites
